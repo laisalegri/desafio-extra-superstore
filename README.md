@@ -1,4 +1,4 @@
-# Análise Exploratória de Dados — Superstore
+# Análise Exploratória de Dados — Loja Superstore
 
 
 
