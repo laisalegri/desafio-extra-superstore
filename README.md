@@ -280,11 +280,13 @@ pip install pandas numpy matplotlib seaborn
 
 
 
-1. Abrir o notebook `.ipynb` no Google Colab;
+1. Abrir o notebook `.ipynb` no Google Colab; 
+   
+2. Fazer o upload do arquivo "sample_superstore.csv" na pasta "Arquivos" no Google Colab; 
 
-2. Executar as células em sequência;
+3. Executar as células em sequência;
 
-3. Visualizar os gráficos e análises geradas.
+4. Visualizar os gráficos e análises geradas.
 
 
 
